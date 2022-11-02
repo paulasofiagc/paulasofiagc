@@ -5,7 +5,7 @@
    
 </div>
 <p>
-Soy <strong>Front End developer</strong>. Desde que era pequeña uno de mis pasatiempos favoritos era aprender a solucionar diferentes problemas y encontrar la mejor solución posible. Así llegue a convertirme en desarrolladora donde puedo constantemente seguir aprendiendo y desafiandome a mi misma. 
+Desde que era pequeña uno de mis pasatiempos favoritos era aprender a solucionar diferentes problemas y encontrar la mejor solución posible. Así llegue a convertirme en <strong>Front End developer</strong> donde puedo constantemente seguir aprendiendo y desafiandome a mi misma. 
 </p>
 <p>Actualmente estoy estudiando en <strong>Laboratoria</strong>, donde he estado aprendiendo desde 0 un lenguaje de programación tan complejo y único como es Javascript✨. Estos meses lo he desarrollado mediante la simulación de un ambiente de trabajo donde se nos entregan proyectos y buscamos diferentes herramientas para implementarlos utilizando en cada uno metodologías Ágiles como SCRUM y Kanban. 
 </p>
@@ -44,7 +44,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 </div>
 
 ### 💻 Repositorios:
-<div style = "display: flex; flex-flow: row wrap;">
+<div style = "display: flex; flex-direction:row;">
    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-burger-queen)](https://github.com/paulasofiagc/SCL021-burger-queen)
 
