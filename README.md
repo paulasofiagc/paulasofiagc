@@ -43,7 +43,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
       </div>
 </div>
 
-### 💻 Repositorios:
+### 💻 Principales Proyectos:
 <div>
 <a href="https://github.com/paulasofiagc/SCL021-burger-queen">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-burger-queen&theme=aura" />
