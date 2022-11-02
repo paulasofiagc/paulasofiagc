@@ -19,7 +19,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 <div style = "display: flex; flex-direction: column" >
 <div style = "display: flex; flex-direction: row">
    <img src = "https://img.icons8.com/color/344/linkedin-2--v1.png" width="20">
-   <a href = "https://www.linkedin.com/in/paulasofiagc/">paulasofiagc</a>
+   <a href = "https://www.linkedin.com/in/paulagallardocarrasco/">paulagallardocarrasco</a>
 </div>
 <div style = "display: flex; flex-direction: row">
    <img src = "https://img.icons8.com/color/344/gmail--v1.png" width="20">
