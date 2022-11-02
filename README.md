@@ -4,7 +4,7 @@
    
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Paula+%F0%9F%92%BB;Welcome!+%E2%9C%A8)](https://git.io/typing-svg)
    
-<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">via GIPHY</a></p>
+<img align='right' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
    
 </div>
 - 👋 Hi, I’m @paulasofiagc
