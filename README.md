@@ -16,7 +16,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 
 ### 👨‍💻 Sobre mí :
 
-- 💬 Preguntame sobre  ** Visual Studio Code, Git, GitHub, Trello, GitHub projects, Miro, HTML, Javascript, Node.js y CSS **
+- 💬 Preguntame sobre  **Visual Studio Code, Git, GitHub, Trello, GitHub projects, Miro, HTML, Javascript, Node.js y CSS**
 
 - 🌱 Estoy aprendiendo **React.js, Angular y Python**
 
