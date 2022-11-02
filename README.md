@@ -44,7 +44,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 </div>
 
 ### 💻 Repositorios:
-<div style = "display: flex; flex-direction: column">
+<div style = "display: flex; flex-flow: row wrap;">
    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-burger-queen)](https://github.com/paulasofiagc/SCL021-burger-queen)
 
