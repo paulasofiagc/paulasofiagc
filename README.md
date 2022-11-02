@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
+   <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Paula+%F0%9F%92%BB;Welcome!+%E2%9C%A8" alt="Typing SVG" /></a>
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
 
     <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
         Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
