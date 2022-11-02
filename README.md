@@ -1,7 +1,7 @@
 <div id="header" align="center">
    
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hola!+Soy+Paula+%F0%9F%92%BB;Bienvenidos!+%E2%9C%A8)](https://git.io/typing-svg)
-<img align='left' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350">
+<img align='right' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350">
    
 </div>
 <p>
@@ -44,7 +44,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 </div>
 
 ### 💻 Repositorios:
-<div style = "display: flex; flex-direction:row;">
+<div style = "display: flex; flex-direction: row">
    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-burger-queen)](https://github.com/paulasofiagc/SCL021-burger-queen)
 
