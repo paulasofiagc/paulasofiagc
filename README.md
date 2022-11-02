@@ -8,7 +8,8 @@
 <p>
 Soy <strong>Front End developer</strong> apasionada por aprender mucho más de este mundo tan maravilloso que es la tecnología. Desde que era pequeña uno de mis pasatiempos favoritos era aprender a solucionar diferentes problemas y encontrar la mejor solución posible. Así llegue a convertirme en desarrolladora donde puedo constantemente seguir aprendiendo y desafiandome a mi misma. 
 </p>
-<p>Actualmente estoy estudiando en <strong>Laboratoria</strong>, donde he estado aprendiendo desde 0 un lenguaje de programación tan complejo y único como es Javascript✨. Estos meses lo he desarrollado mediante la simulación de un ambiente de trabajo donde se nos entregan proyectos y buscamos diferentes herramientas para implementarlos utilizando en cada uno metodologías Ágiles como SCRUM y Kanban. Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trello, GitHub projects, Miro, HTML, Javascript, Node.js, CSS y React. </p>
+<p>Actualmente estoy estudiando en <strong>Laboratoria</strong>, donde he estado aprendiendo desde 0 un lenguaje de programación tan complejo y único como es Javascript✨. Estos meses lo he desarrollado mediante la simulación de un ambiente de trabajo donde se nos entregan proyectos y buscamos diferentes herramientas para implementarlos utilizando en cada uno metodologías Ágiles como SCRUM y Kanban. 
+Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trello, GitHub projects, Miro, HTML, Javascript, Node.js, CSS y React. </p>
 
 
 <!---
