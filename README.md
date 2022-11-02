@@ -5,7 +5,7 @@
    
 </div>
 <p>
-Soy <strong>Front End developer</strong> apasionada por aprender mucho más de este mundo tan maravilloso que es la tecnología. Desde que era pequeña uno de mis pasatiempos favoritos era aprender a solucionar diferentes problemas y encontrar la mejor solución posible. Así llegue a convertirme en desarrolladora donde puedo constantemente seguir aprendiendo y desafiandome a mi misma. 
+Soy <strong>Front End developer</strong>. Desde que era pequeña uno de mis pasatiempos favoritos era aprender a solucionar diferentes problemas y encontrar la mejor solución posible. Así llegue a convertirme en desarrolladora donde puedo constantemente seguir aprendiendo y desafiandome a mi misma. 
 </p>
 <p>Actualmente estoy estudiando en <strong>Laboratoria</strong>, donde he estado aprendiendo desde 0 un lenguaje de programación tan complejo y único como es Javascript✨. Estos meses lo he desarrollado mediante la simulación de un ambiente de trabajo donde se nos entregan proyectos y buscamos diferentes herramientas para implementarlos utilizando en cada uno metodologías Ágiles como SCRUM y Kanban. 
 </p>
@@ -16,8 +16,8 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 --------------
 
 <h3 align="center">Contáctame:</h3>  
-<div style = "display: flex; flex-direction: row" align="center" space->
-<a href = "https://www.linkedin.com/in/paulasofiagc/"><img src = "https://img.icons8.com/color/344/linkedin-2--v1.png" width="40"></a>
+<div style = "display: flex; flex-direction: column" align="center">
+<a href = "https://www.linkedin.com/in/paulasofiagc/">paulasofiagc@gmail.com></a>
 <a href = "mailto:paulasofiagc@gmail.com"><img src = "https://img.icons8.com/color/344/gmail--v1.png" width="50"></a>
 </div>
 
