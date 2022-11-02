@@ -46,10 +46,10 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 ### 💻 Principales Proyectos:
 <div>
 <a href="https://github.com/paulasofiagc/SCL021-burger-queen">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-burger-queen&theme=aura" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-burger-queen&theme=dark" />
 </a> 
 <a href="https://github.com/paulasofiagc/SCL021-md-links">
-  <img align="center" height="120"src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-md-links&theme=cobalt" />
+  <img align="center" height="120"src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-md-links&theme=merko" />
 </a>
    <a href="https://github.com/paulasofiagc/SCL021-social-network">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-social-network&theme=blueberry" />
