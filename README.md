@@ -2,7 +2,7 @@
    
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Paula+%F0%9F%92%BB;Welcome!+%E2%9C%A8)](https://git.io/typing-svg)
    
-<img align='right' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
+<img align='right' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350">
    
 </div>
 <p>
