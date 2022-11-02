@@ -20,7 +20,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 
 - 🌱 Estoy aprendiendo **React.js, Angular y Python**
 
-![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulasofiagc&show_icons=true&count_private=true&hide=issues,stars&theme=dracula)
+![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulasofiagc&show_icons=true&count_private=true&hide=issues,stars&theme=dracula&card_width300)
 --------------
 
 <div align="left">
