@@ -8,7 +8,7 @@
 <p>
 Soy <strong>Front End developer</strong> apasionada por aprender mucho más de este mundo tan maravilloso que es la tecnología. Desde que era pequeña uno de mis pasatiempos favoritos era aprender a solucionar diferentes problemas y encontrar la mejor solución posible, en este mundo tan versátil puedo hacer lo que más me apasiona y seguir creciendo.
 </p>
-<p>Actualmente estoy estudiando en <strong>Laboratoria</strong>, donde he podido desafiar a mi mente aprendiendo desde 0 un lenguaje de programación tan complejo y único como es Javascript✨. Lo he estado aprendiendo mediante la simulación de un ambiente de trabajo donde nos entregan proyecto y buscamos diferentes metodologías para implementarlos utilizando en cada uno metodologías Ágiles como SCRUM y Kanban. Gracias a esto he aprendido herramientas y software como Visual Studio Code, Git, GitHub, Trello, GitHub projects, Miro, HTML, Javascript, Node.js, CSS y React. </p>
+<p>Actualmente estoy estudiando en <strong>Laboratoria</strong>, donde he podido desafiar a mi mente aprendiendo desde 0 un lenguaje de programación tan complejo y único como es Javascript✨. Lo he estado aprendiendo mediante la simulación de un ambiente de trabajo donde nos entregan proyecto y buscamos diferentes herramientas para implementarlos utilizando en cada uno metodologías Ágiles como SCRUM y Kanban. Gracias a esto he aprendido herramientas y software como Visual Studio Code, Git, GitHub, Trello, GitHub projects, Miro, HTML, Javascript, Node.js, CSS y React. </p>
 
 <!---
 paulasofiagc/paulasofiagc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
