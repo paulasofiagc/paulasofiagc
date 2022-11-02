@@ -21,6 +21,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 
 - 🌱 Estoy aprendiendo **React.js, Angular y Python**
 
+--------------
 
 <div align="left">
     <h3>🔨 Lenguajes y Herramientas:</h3>
@@ -41,6 +42,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
+
 <h3>Contáctame:</h3>  
 <div style = "display: flex; flex-direction: column" >
 <div style = "display: flex; flex-direction: row">
