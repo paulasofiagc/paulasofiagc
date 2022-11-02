@@ -46,19 +46,19 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 ### 💻 Repositorios:
 <div>
 <a href="https://github.com/paulasofiagc/SCL021-burger-queen">
-  <img align="center" height="140" width="100" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-burger-queen" />
+  <img align="center" height="140" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-burger-queen" />
 </a> 
 <a href="https://github.com/paulasofiagc/SCL021-md-links">
-  <img align="center" height="140" width="100" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-md-links" />
+  <img align="center" height="140" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-md-links" />
 </a>
    <a href="https://github.com/paulasofiagc/SCL021-social-network">
-  <img align="center" height="140" width="100" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-social-network" />
+  <img align="center" height="140" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-social-network" />
 </a>
    <a href="https://github.com/paulasofiagc/SCL021-data-lovers">
-  <img align="center" height="140" width="100" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-data-lovers" />
+  <img align="center" height="140" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-data-lovers" />
 </a>
    <a href="https://github.com/paulasofiagc/SCL021-card-validation">
-  <img align="center" height="140" width="100" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-card-validation" />
+  <img align="center" height="140" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-card-validation" />
 </a>
     
 </div>
