@@ -49,13 +49,13 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-burger-queen&theme=aura" />
 </a> 
 <a href="https://github.com/paulasofiagc/SCL021-md-links">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-md-links&theme=cobalt" />
+  <img align="center" height="120"src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-md-links&theme=cobalt" />
 </a>
    <a href="https://github.com/paulasofiagc/SCL021-social-network">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-social-network&theme=blueberry" />
 </a>
    <a href="https://github.com/paulasofiagc/SCL021-data-lovers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-data-lovers&theme=midnight-purple"/>
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-data-lovers&theme=midnight-purple"/>
 </a>
    <a href="https://github.com/paulasofiagc/SCL021-card-validation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-card-validation&theme=react" />
