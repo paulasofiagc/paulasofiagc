@@ -1,17 +1,14 @@
-
-
 <div id="header" align="center">
    
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Paula+%F0%9F%92%BB;Welcome!+%E2%9C%A8)](https://git.io/typing-svg)
    
-<img align='right' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
+<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">via GIPHY</a></p>
    
 </div>
-- 👋 Hi, I’m @paulasofiagc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p>
+Soy <strong>Front End developer</strong> apasionada por aprender mucho más de este mundo tan maravilloso que es la tecnología. Desde que era pequeña uno de mis pasatiempos favoritos era aprender a solucionar diferentes problemas y encontrar la mejor solución posible, en este mundo tan versátil puedo hacer lo que más me apasiona y seguir creciendo.
+</p>
+<p>Actualmente estoy estudiando en <strong>Laboratoria</strong>, donde he podido desafiar a mi mente aprendiendo desde 0 un lenguaje de programación tan complejo y único como es Javascript✨. Lo he estado aprendiendo mediante la simulación de un ambiente de trabajo donde nos entregan proyecto y buscamos diferentes metodologías para implementarlos utilizando en cada uno metodologías Ágiles como SCRUM y Kanban. Gracias a esto he aprendido herramientas y software como Visual Studio Code, Git, GitHub, Trello, GitHub projects, Miro, HTML, Javascript, Node.js, CSS y React. </p>
 
 <!---
 paulasofiagc/paulasofiagc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
