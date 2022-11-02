@@ -36,13 +36,11 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
         <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" **alt="Node" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/tree/master/icons/trello" title="Trello" **alt="Trello" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCODE" **alt="VSCODE" width="40" height="40"/>
-               <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
        
-     
       </div>
-</div>
 
 <h3>Contáctame:</h3>  
 <div style = "display: flex; flex-direction: column" >
