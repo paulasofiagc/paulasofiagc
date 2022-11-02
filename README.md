@@ -44,7 +44,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 
 ### 💻 Repositorios:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulasofiagc&show_icons=true&count_private=true&hide=issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulasofiagc&show_icons=true&count_private=true&hide=issues,stars)
 <h3>Contáctame:</h3>  
 <div style = "display: flex; flex-direction: column" >
 <div style = "display: flex; flex-direction: row">
