@@ -45,6 +45,8 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 
 ### 💻 Repositorios:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Contáctame:</h3>  
 <div style = "display: flex; flex-direction: column" >
 <div style = "display: flex; flex-direction: row">
