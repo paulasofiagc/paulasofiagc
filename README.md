@@ -13,7 +13,6 @@ Soy <strong>Front End developer</strong>. Desde que era pequeña uno de mis pasa
 Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trello, Firebase, GitHub projects, Miro, HTML, Javascript, Node.js, CSS, Photoshop y React. 
 </p>
 
---------------
 
 ### 👨‍💻 Sobre mí :
 
