@@ -10,7 +10,7 @@ Soy <strong>Front End developer</strong>. Desde que era pequeña uno de mis pasa
 <p>Actualmente estoy estudiando en <strong>Laboratoria</strong>, donde he estado aprendiendo desde 0 un lenguaje de programación tan complejo y único como es Javascript✨. Estos meses lo he desarrollado mediante la simulación de un ambiente de trabajo donde se nos entregan proyectos y buscamos diferentes herramientas para implementarlos utilizando en cada uno metodologías Ágiles como SCRUM y Kanban. 
 </p>
 <p>
-Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trello, GitHub projects, Miro, HTML, Javascript, Node.js, CSS y React. 
+Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trello, Firebase, GitHub projects, Miro, HTML, Javascript, Node.js, CSS, Photoshop y React. 
 </p>
 
 --------------
@@ -19,24 +19,23 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 
 - 💬 Preguntame sobre  **Visual Studio Code, Git, GitHub, Trello, GitHub projects, Miro, HTML, Javascript, Node.js y CSS **
 
-- 🌱 Estoy aprendiendo **React.js y Angular**
+- 🌱 Estoy aprendiendo **React.js, Angular y Python**
 
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>🔨 Lenguajes y Herramientas:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/tree/master/icons/figma" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" **alt="Firebase" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" **alt="Node" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
       </div>
 </div>
 
