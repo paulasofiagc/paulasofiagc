@@ -52,7 +52,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
   <img align="center" height="120"src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-md-links&theme=blue-green" />
 </a>
    <a href="https://github.com/paulasofiagc/SCL021-social-network">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-social-network&theme=blueberry" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-social-network&theme=chartreuse-dark" />
 </a>
    <a href="https://github.com/paulasofiagc/SCL021-data-lovers">
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-data-lovers&theme=midnight-purple"/>
