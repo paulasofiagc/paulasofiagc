@@ -16,7 +16,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 --------------
 
 <h3 align="center">Contáctame:</h3>  
-<div style = "display: flex; flex-direction: row" align="center">
+<div style = "display: flex; flex-direction: row" align="center" space->
 <a href = "https://www.linkedin.com/in/paulasofiagc/"><img src = "https://img.icons8.com/color/344/linkedin-2--v1.png" width="40"></a>
 <a href = "mailto:paulasofiagc@gmail.com"><img src = "https://img.icons8.com/color/344/gmail--v1.png" width="50"></a>
 </div>
