@@ -51,7 +51,7 @@ Gracias a esto he aprendido software como Visual Studio Code, Git, GitHub, Trell
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-data-lovers)](https://github.com/paulasofiagc/SCL021-data-lovers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulasofiagc&repo=SCL021-card-validation)](https://github.com/paulasofiagc/SCL021-card-validation)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasofiagc)](https://github.com/paulasofiagc/SCL021-card-validation)
 
 <h3>Contáctame:</h3>  
 <div style = "display: flex; flex-direction: column" >
