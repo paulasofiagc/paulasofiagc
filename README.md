@@ -3,7 +3,7 @@
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Paula+%F0%9F%92%BB;Welcome!+%E2%9C%A8)](https://git.io/typing-svg)
  <h3>Contactame!</h3>  
  <div style = "display: flex; flex-direction: row">
-<a href = "https://www.linkedin.com/in/paulasofiagc/"><img src = "https://img.icons8.com/color/344/linkedin-2--v1.png"></a>
+<a href = "https://www.linkedin.com/in/paulasofiagc/"><img src = "https://img.icons8.com/color/344/linkedin-2--v1.png" width="50"></a>
 <a href = "mailto:paulasofiagc@gmail.com"><img src = "https://img.icons8.com/ios-filled/40/ffffff/secured-letter--v1.png"></a>
 </div>
 <img align='right' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350">
